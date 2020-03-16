@@ -1,6 +1,3 @@
-# Mod2_Core_Learning_Checklist_Rails
-
-
 # Mod2 Core Learning Checklist (Rails)
 
 1) **What are the 7 RESTful routes (HTTP Verb + URL)? What is the purpose of each action?**
